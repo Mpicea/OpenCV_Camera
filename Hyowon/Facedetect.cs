@@ -72,7 +72,7 @@ namespace CameraApp
                             //}
 
                             // 얼굴 영역에 오버레이할 이미지 로드
-                            Mat overlayImage = Cv2.ImRead("sunglasses.png");
+                            Mat overlayImage = Cv2.ImRead("moon.jpg");
 
                             // 찾은 얼굴에 이미지 합성
                             foreach (var face in faces)
