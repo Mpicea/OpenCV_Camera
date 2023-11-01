@@ -8,4 +8,4 @@
 
 ### 각 프로젝트  
 * Facedetect.cs : 안면인식, 눈인식 - 인식한 곳에 이미지 띄우기
-* HistogramEqualization : 히스토그램 평활화
+* HistogramEqualization.cs : 히스토그램 평활화
