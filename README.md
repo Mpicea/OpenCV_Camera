@@ -6,7 +6,7 @@
 |Hyowon|안면인식과 눈 인식, 히스토그램 평활화 적용|장효원님|
 |Bolrok_Ohmok.cs|볼록&오목렌즈 효과와 캐니에지를 적용|황형선님|
 |CameraAppProject1.cs|통합 - 안면인식, 눈 인식, 볼록&오목렌즈, 블러, 샤프닝|문도원님|
-|CameraAppProject2.cs|통합 - 안면인식, 눈 인식, 볼록&오목렌즈, 캐니에지, 블러, 샤프닝, 모자이크, 히스토그램 평활화|장지현님|
+|CameraAppProject2.cs|통합 - 모든 프로젝트 통합|장지현님|
 |CameraSharpenBlur.cs|블러 효과와 샤프닝 효과를 적용|문도원님|
 |InpaintFace.cs|안면인식에 모자이크 적용|장지현님|
   
